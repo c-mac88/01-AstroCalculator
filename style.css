@@ -1,0 +1,22 @@
+body {
+	background: black;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+h3 {
+	color: white;
+	display: inline;
+}
+
+#h2a {
+	margin-left: 25% 
+}
+
+h2 {
+	text-align: center;
+	color:white;
+}
